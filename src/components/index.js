@@ -7,6 +7,7 @@ import SpecialOffers from './SpecialOffers';
 import CustomerReviews from './CustomerReviews';
 import Subscribe from './Subscribe';
 import Footer from './Footer';
+import Button from './Button';
 
 export {
   NavBar,
@@ -18,4 +19,5 @@ export {
   CustomerReviews,
   Subscribe,
   Footer,
+  Button,
 };
