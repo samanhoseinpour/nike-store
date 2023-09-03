@@ -9,6 +9,7 @@ import Subscribe from './Subscribe';
 import Footer from './Footer';
 import Button from './Button';
 import ShoeCard from './ShoeCard';
+import ProductsCard from './ProductsCard';
 
 export {
   NavBar,
@@ -22,4 +23,5 @@ export {
   Footer,
   Button,
   ShoeCard,
+  ProductsCard,
 };
