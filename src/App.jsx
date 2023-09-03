@@ -12,7 +12,7 @@ import {
 
 const App = () => {
   return (
-    <main>
+    <main className="overflow-x-hidden">
       <NavBar />
       <section className="xl:padding-1 wide:padding-r padding-b">
         <Hero />
