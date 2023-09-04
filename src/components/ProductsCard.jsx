@@ -3,7 +3,7 @@ import { star } from '../assets/icons';
 
 const ProductsCard = () => {
   return (
-    <div className="flex flex-row flex-wrap justify-between gap-6 max-sm:justify-center">
+    <div className="flex flex-row flex-wrap justify-between gap-10 max-sm:justify-center">
       {products.map((product) => (
         <div
           key={product.name}
