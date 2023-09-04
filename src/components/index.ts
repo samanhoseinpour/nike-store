@@ -11,6 +11,7 @@ import Button from './Button';
 import ShoeCard from './ShoeCard';
 import ProductsCard from './ProductsCard';
 import ServiceCard from './ServiceCard';
+import ReviewCard from './ReviewCard';
 
 export {
   NavBar,
@@ -26,4 +27,5 @@ export {
   ShoeCard,
   ProductsCard,
   ServiceCard,
+  ReviewCard,
 };
