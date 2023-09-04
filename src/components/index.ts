@@ -10,6 +10,7 @@ import Footer from './Footer';
 import Button from './Button';
 import ShoeCard from './ShoeCard';
 import ProductsCard from './ProductsCard';
+import ServiceCard from './ServiceCard';
 
 export {
   NavBar,
@@ -24,4 +25,5 @@ export {
   Button,
   ShoeCard,
   ProductsCard,
+  ServiceCard,
 };
